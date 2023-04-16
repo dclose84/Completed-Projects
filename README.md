@@ -1,2 +1,2 @@
-# Final-Projects
+# Completed-Projects
 Repository for completed projects. 
